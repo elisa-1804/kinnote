@@ -1,1 +1,1 @@
-# my-movies
+# KinNote
